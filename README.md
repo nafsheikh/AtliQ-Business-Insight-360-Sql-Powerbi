@@ -81,36 +81,70 @@ Without proper data modeling, reports can become slow, difficult to maintain, an
 The dashboard consists of six interactive pages:
 
 1. **Home Page**: Landing page with navigation buttons to access different insights.
-![Home Page]
+![Home Page](https://github.com/nafsheikh/AtliQ-Business-Insight-360-Sql-Powerbi/blob/main/Home%20Page.png?raw=true)
 
 2. **Finance Page**:
    - Profit and Loss statements.
    - Top and Bottom Products and Customers by Net Sales.
    - Budgeting and cost control insights.
-     ![Finance View]
+     ![Finance View](https://github.com/nafsheikh/AtliQ-Business-Insight-360-Sql-Powerbi/blob/main/Finance%20Page.png?raw=true)
 
 3. **Sales Page**:
    - Customer performance by Net Sales.
    - Gross Margin and Gross Margin %.
    - Revenue trends and market share analysis.
-![Sales View]
+![Sales View](https://github.com/nafsheikh/AtliQ-Business-Insight-360-Sql-Powerbi/blob/main/Sales%20Page.png?raw=true)
 
 4. **Marketing Page**:
    - Segment performance by Gross Margin % and Net Profit %.
    - Customer engagement and brand visibility metrics.
-![Marketing View](
+![Marketing View](https://github.com/nafsheikh/AtliQ-Business-Insight-360-Sql-Powerbi/blob/main/Marketing%20Page.png?raw=true)
 
 5. **Supply Chain Page**:
    - Forecast accuracy and Net error metrics.
    - Inventory and supplier performance analysis.
-![Supply Chain View]
+![Supply Chain View](https://github.com/nafsheikh/AtliQ-Business-Insight-360-Sql-Powerbi/blob/main/Supply%20Chain%20page.png?raw=true)
 
 6. **Executive Page**:
    - High-level KPIs like Net Sales, Gross Margin %, and Net Profit %.
    - Performance by channel and sub-region.
    - Highlights of top customers and products.
-![Executive View]
+![Executive View](https://github.com/nafsheikh/AtliQ-Business-Insight-360-Sql-Powerbi/blob/main/Executive%20Page.png?raw=true)
+
+---
+
+## Key Highlights & Skills Demonstrated
+
+**Advanced Power BI Development**: Built interactive dashboards using calculated columns, complex DAX measures, bookmarks, dynamic titles, custom tooltips, and conditional formatting to enhance user experience and storytelling.
+
+**Data & Performance Optimization**: Utilized Power BI Desktop alongside DAX Studio for model tuning and file size optimization, ensuring efficient report performance at scale.
+
+**Database Integration**: Connected and transformed data from MySQL, applying robust data modeling techniques to support reliable analytical reporting.
+
+**Business KPI Engineering**: Designed and validated core business metrics such as Gross Margin %, Net Profit %, COGS, YTD, and YTG to support finance and sales decision-making.
+
+**Data Modeling Best Practices**: Implemented a scalable Snowflake schema with proper relationships, enabling accurate filter flow and high-performance analytics.
+
+**Analytical Storytelling**: Focused on clean visual design, intuitive navigation, and dynamic report interactions to deliver executive-ready insights.
+
+**End-to-End BI Workflow**: Covered the full pipeline from data ingestion and transformation to semantic modeling and dashboard delivery.
+
+---
+## Tools Used
+
+- **Power BI**: Visualization and reporting.
+- **SQL**: Data extraction and preparation.
+- **DAX**: Custom measures and calculated columns.
+- **DAX Studio**: Performance optimization.
+
+---
+
+## Conclusion
+
+This project highlights the impact of analytics in transforming raw data into strategic business value. With Power BI-enabled insights, AtliQ Hardware can confidently support decision-making, monitor key performance drivers, and stay ahead in a competitive marketplace.
 
 ---
 
 
+
+---
