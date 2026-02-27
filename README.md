@@ -71,6 +71,46 @@ Data modeling is the foundation of any effective Power BI solution. A well-desig
 4. Enhances dashboard user experience
 
 Without proper data modeling, reports can become slow, difficult to maintain, and prone to calculation errors. A strong semantic model enables reliable, efficient, and business-ready analytics
-![Data Modelling]
+![Data Modelling](https://github.com/nafsheikh/AtliQ-Business-Insight-360-Sql-Powerbi/blob/main/Data%20Modelling.png?raw=true)
+
+---
+
+
+## Power BI Dashboard Overview
+
+The dashboard consists of six interactive pages:
+
+1. **Home Page**: Landing page with navigation buttons to access different insights.
+![Home Page]
+
+2. **Finance Page**:
+   - Profit and Loss statements.
+   - Top and Bottom Products and Customers by Net Sales.
+   - Budgeting and cost control insights.
+     ![Finance View]
+
+3. **Sales Page**:
+   - Customer performance by Net Sales.
+   - Gross Margin and Gross Margin %.
+   - Revenue trends and market share analysis.
+![Sales View]
+
+4. **Marketing Page**:
+   - Segment performance by Gross Margin % and Net Profit %.
+   - Customer engagement and brand visibility metrics.
+![Marketing View](
+
+5. **Supply Chain Page**:
+   - Forecast accuracy and Net error metrics.
+   - Inventory and supplier performance analysis.
+![Supply Chain View]
+
+6. **Executive Page**:
+   - High-level KPIs like Net Sales, Gross Margin %, and Net Profit %.
+   - Performance by channel and sub-region.
+   - Highlights of top customers and products.
+![Executive View]
+
+---
 
 
