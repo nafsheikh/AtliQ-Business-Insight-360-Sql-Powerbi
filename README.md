@@ -20,6 +20,9 @@ The dashboard empowers stakeholders to monitor performance, identify trends, and
 
 This project was completed as part of the **Codebasics Power BI Course**, which provided comprehensive guidance and practical insights into building analytics solutions.
 
+## Click here to view the interactive Power BI Dashboard : [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMzQyZGY5Y2YtMmQ3ZS00MmFiLTllN2QtMjFjYWRkMzZmMDMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 ## Objectives
 
 This project aims to build a scalable and insight-driven analytics solution to support strategic business decisions.
